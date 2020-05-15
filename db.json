@@ -1,1 +1,9 @@
-{"data":{"domainExists":true,"availableDomains":null},"status":"SUCCESS","httpStatus":"OK","httpStatusCode":200}
+{
+    "data": {
+        "domainExists": true,
+        "availableDomains": null
+    },
+    "status": "SUCCESS",
+    "httpStatus": "OK",
+    "httpStatusCode": 200
+}
